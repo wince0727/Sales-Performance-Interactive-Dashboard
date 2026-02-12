@@ -54,17 +54,13 @@ The dashboard is designed with a clean UI, interactive slicers, KPIs, and **page
 
 ## Dashboard Preview
 
-### Sales Overview
-![Sales Overview](https://github.com/wince0727/Sales-Performance-Interactive-Dashboard/blob/main/Sales_Performance_Dashboard/report%20p1.png)
+![Sales Overview](https://raw.githubusercontent.com/wince0727/Sales-Performance-Interactive-Dashboard/main/Sales_Performance_Dashboard/report%20p1.png)
 
-### Customer & Time Analysis
-![Customer & Time Analysis](https://github.com/wince0727/Sales-Performance-Interactive-Dashboard/blob/main/Sales_Performance_Dashboard/report%20p2.png)
+![Customer & Time Analysis](https://raw.githubusercontent.com/wince0727/Sales-Performance-Interactive-Dashboard/main/Sales_Performance_Dashboard/report%20p2.png)
 
-### Product & Regional Analysis
-![Product & Regional Analysis](https://github.com/wince0727/Sales-Performance-Interactive-Dashboard/blob/main/Sales_Performance_Dashboard/report%20p3.png)
+![Product & Regional Analysis](https://raw.githubusercontent.com/wince0727/Sales-Performance-Interactive-Dashboard/main/Sales_Performance_Dashboard/report%20p3.png)
 
-### Customer & Segment Performance
-![Customer & Segment Performance](https://github.com/wince0727/Sales-Performance-Interactive-Dashboard/blob/main/Sales_Performance_Dashboard/report%20p4.png)
+![Customer & Segment Performance](https://raw.githubusercontent.com/wince0727/Sales-Performance-Interactive-Dashboard/main/Sales_Performance_Dashboard/report%20p4.png)
 
 
 ## Tools & Technologies
