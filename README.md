@@ -55,7 +55,7 @@ The dashboard is designed with a clean UI, interactive slicers, KPIs, and **page
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Overview]()
+![Sales Overview](https://github.com/wince0727/Sales-Performance-Interactive-Dashboard/blob/main/Sales_Performance_Dashboard/report%20p1.png)
 
 ### Customer & Time Analysis
 ![Customer & Time Analysis]()
